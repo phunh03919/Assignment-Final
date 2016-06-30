@@ -1,0 +1,16 @@
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\bin\Debug\Assginment-phunh03919.exe.config
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\bin\Debug\Assginment-phunh03919.exe
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\bin\Debug\Assginment-phunh03919.pdb
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\bin\Debug\Assginment-phunh03919.xml
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment_phunh03919.frmKhachHang.resources
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment_phunh03919.Form1.resources
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment_phunh03919.Resources.resources
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment-phunh03919.vbproj.GenerateResource.Cache
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment-phunh03919.exe
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment-phunh03919.xml
+c:\users\qwe\documents\visual studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment-phunh03919.pdb
+C:\Users\QWE\Documents\Visual Studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment_phunh03919.frmSanPham.resources
+C:\Users\QWE\Documents\Visual Studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment_phunh03919.FrmLoaiSanPham.resources
+C:\Users\QWE\Documents\Visual Studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment_phunh03919.frmXemSanPham.resources
+C:\Users\QWE\Documents\Visual Studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment_phunh03919.FrmHoaDon.resources
+C:\Users\QWE\Documents\Visual Studio 2013\Projects\Assginment-phunh03919\Assginment-phunh03919\obj\Debug\Assginment_phunh03919.FrmChiTietHoaDon.resources
